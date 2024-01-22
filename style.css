@@ -1,0 +1,10 @@
+.contener{
+    color: black;
+    background: #3f0909;
+    display: flex;
+    text-align: center;
+    align-items:center;
+    font-size: 45px;
+    margin: 40px;
+    padding: 40px;
+}
